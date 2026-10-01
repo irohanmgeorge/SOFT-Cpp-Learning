@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/irohanmgeorge/Desktop/SOFT-Cpp-Learning/helloworld'
+relocations:     []
+...
